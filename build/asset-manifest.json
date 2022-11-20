@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Fun-Facts-About-React/static/css/main.181301e6.css",
+    "main.js": "/Fun-Facts-About-React/static/js/main.7d6cf0e3.js",
+    "static/js/787.9661e67c.chunk.js": "/Fun-Facts-About-React/static/js/787.9661e67c.chunk.js",
+    "static/media/react-logo.png": "/Fun-Facts-About-React/static/media/react-logo.20adfb35ae6a6e5817bf.png",
+    "index.html": "/Fun-Facts-About-React/index.html",
+    "main.181301e6.css.map": "/Fun-Facts-About-React/static/css/main.181301e6.css.map",
+    "main.7d6cf0e3.js.map": "/Fun-Facts-About-React/static/js/main.7d6cf0e3.js.map",
+    "787.9661e67c.chunk.js.map": "/Fun-Facts-About-React/static/js/787.9661e67c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.181301e6.css",
+    "static/js/main.7d6cf0e3.js"
+  ]
+}
