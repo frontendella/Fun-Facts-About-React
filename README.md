@@ -1,4 +1,4 @@
-# [Fun Facts About React](https://fun-facts-about-react-static.netlify.app/) 
+# [Fun Facts About React](https://frontendella.github.io/Fun-Facts-About-React/) 
 
 
 
